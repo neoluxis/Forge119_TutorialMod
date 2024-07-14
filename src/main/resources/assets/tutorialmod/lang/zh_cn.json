@@ -1,4 +1,5 @@
 {
   "item.tutorialmod.bear": "熊",
-  "itemGroup.tutorialmod_tab": "我的物品"
+  "itemGroup.tutorialmod_tab": "我的物品",
+  "block.tutorialmod.bear_block": "熊方块"
 }
